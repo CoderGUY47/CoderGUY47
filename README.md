@@ -65,6 +65,6 @@
 
 <hr/>
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" class="w-36 h-8 sm:w-52 sm:h-12 mr-1 sm:mr-4" alt="buymeacoffee" /></a>
+<a href='https://github.com/CoderGUY47' target='_blank'><img height='64' style='border:0px;height:64px;' src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" class="w-36 h-8 sm:w-52 sm:h-12 mr-1 sm:mr-4" alt="buymeacoffee" /></a>
 
 <hr/>
