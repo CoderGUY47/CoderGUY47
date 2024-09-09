@@ -50,18 +50,21 @@
   <h2>📝 -Contributions- 📝</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
-
+<hr/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 <div align=center>
-
+  <img width=600 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=coderguy47&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=500 src="https://github-readme-stats-salesp07.vercel.app/api?username=coderguy47&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderguy47&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+<hr/>
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" class="w-36 h-8 sm:w-52 sm:h-12 mr-1 sm:mr-4" alt="buymeacoffee" /></a>
 
-<div align=center>
-<img width=480 src="https://github-readme-streak-stats.herokuapp.com/?user=coderguy47&" alt="coderguy47" /></p><br><hr/>
-<img width=480 src="https://github-readme-stats-salesp07.vercel.app/api?username=coderguy47&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /><br> <hr/>
-<img width=480 height=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=coderguy47&show_icons=true&locale=en&layout=compact" alt="coderguy47" /></p><br>
-</div>
+<hr/>
