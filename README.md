@@ -19,17 +19,17 @@
  <hr/>
 <div align="center">
   
-🔭 I’m currently working on **>>> LUXOROSH <<<**
+🔭 I’m currently working on **LUXOROSH**
 
-🌱 I’m currently learning **| Tailwind | MongoBD |**
+🌱 I’m currently learning **|Tailwind|MongoBD|**
 
-👨‍💻 All of my projects are available at **| (https://github.com/CoderGUY47) |**
+👨‍💻 All of my projects are available at **|(github.com/CoderGUY47)|**
 
-💬 Ask me about **| Html | CSS | Java | Js | C | ReactJs |**
+💬 Ask me about **Html-CSS-Java-Js-C-ReactJs|**
 
-📫 How to reach me **>-- CoderGUY47 --<**
+📫 How to reach me **-- @CoderGUY47 --**
 
-🧑 Personal Opinion **-- Friendly & Straight forward --**
+🧑 Personality **-- Friendly & Straight forward --**
 
 ⚡ Fun fact **!! Overflow : Hidden !!**
 </div>
