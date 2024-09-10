@@ -10,8 +10,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Gabarito&weight=700&size=48&center=true&vCenter=true&pause=1000&color=789BF7&width=700&height=70&lines=wanna+see+my+hello+world+?+🔍;" />
 </h1>
 
-<h1 align="center">Hi 👋, I'm Hasan</h1>
-<h3 align="center">A peace minded and A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Hi👋, I'm Hasan</h1>
+<h3 align="center">Passionate Frontend Web developer from Bangladesh</h3>
 <img align="center" width="1080" src="https://media.licdn.com/dms/image/D4E12AQEC-Ogww_k3Mw/article-cover_image-shrink_720_1280/0/1710841109274?e=2147483647&v=beta&t=2Z4Zot4ogR6QlSnJKm9AyxqDcWLo1iCgbKa7X-qdgAs" alt="Coding">
 <br>
 
@@ -27,11 +27,11 @@
 
 💬 Ask me about **| Html | CSS | Java | Js | C | ReactJs |**
 
-📫 How to reach me **>>>-- CoderGUY47 --<<<**
+📫 How to reach me **>-- CoderGUY47 --<**
 
-🧑 Personal Opinion **-- I Recon I am friendly and also straight forward to my work. Always have to get a peace of mind. --**
+🧑 Personal Opinion **-- Friendly & Straight forward --**
 
-⚡ Fun fact **!! None knows that I talk a lot on a specific matter with a couple of specific people !!**
+⚡ Fun fact **!! Overflow : Hidden !!**
 </div>
  <hr/>
 <h3 align="center">🔗Connect with me:🔗</h3>
