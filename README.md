@@ -55,7 +55,6 @@
 <div align="center">
   <hr/>
   <h2>📝 -Contributions- 📝</h2>
-  ![image](https://github.com/user-attachments/assets/9038ecae-b70a-412a-86e4-425dfa003ade)
   <br>
   <img alt="snake eating my contributions" src="https://github.com/user-attachments/assets/9038ecae-b70a-412a-86e4-425dfa003ade" /><br>
     <br/><br/>
