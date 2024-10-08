@@ -55,13 +55,7 @@
 <div align="center">
   <hr/>
   <h2>📝 -Contributions- 📝</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /><br>
-    <br/><br/>
-</div>
-
-
-
+  ![image](https://github.com/user-attachments/assets/9038ecae-b70a-412a-86e4-425dfa003ade)
 
 
 <hr/>
