@@ -56,9 +56,8 @@
   <hr/>
   <h2>📝 -Contributions- 📝</h2>
   <br>
-![snake animation](https://github.com/<seu CoderGUY47>/<seu CoderGUY47>/blob/output/github-contribution-grid-snake2.svg)
-  
-<br>
+      <img src="https://github.com/<seu CoderGUY47>/<seu CoderGUY47>/blob/output/github-contribution-grid-snake2.svg" />
+  <br>
     <br/><br/>
 </div>
 <hr/>
