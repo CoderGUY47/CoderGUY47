@@ -56,7 +56,13 @@
   <hr/>
   <h2>📝 -Contributions- 📝</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/user-attachments/assets/9038ecae-b70a-412a-86e4-425dfa003ade" /><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/CoderGUY47/CoderGUY47/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/CoderGUY47/CoderGUY47/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://github.com/CoderGUY47/CoderGUY47/output/github-contribution-grid-snake.svg"/>
+</picture>
+  
+<br>
     <br/><br/>
 </div>
 <hr/>
