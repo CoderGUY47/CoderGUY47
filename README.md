@@ -1,7 +1,6 @@
 <div align="center">
   <img height="30" width="30" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a9415ff0-40cb-44e8-b941-f9e3563c4238/d5afb2w-2e9d6840-6d33-4402-9c9b- 
   555c25781c9a.gif"/><br>
-<img align="center" src="https://komarev.com/ghpvc/?username=coderguy47&label=Profile%20views&color=0e75b6&style=flat" alt="coderguy47" />
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=CoderGUY47.CoderGUY47" />
 </div>
 
@@ -56,7 +55,7 @@
   <hr/>
   <h2>📝 -Contributions- 📝</h2>
   <br>
-      <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CoderGUY47/CoderGUY47/output/github-contribution-grid-snake.gif" />
+      <img align="center" src="https://github.com/user-attachments/assets/bdf99c91-110b-46d1-8ba9-bf2c45043d26" />
   <br>
     <br/><br/>
 </div>
