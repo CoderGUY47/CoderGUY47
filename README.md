@@ -56,7 +56,7 @@
   <hr/>
   <h2>📝 -Contributions- 📝</h2>
   <br>
-      <img src="https://github.com/<seu CoderGUY47>/<seu CoderGUY47>/blob/output/github-contribution-grid-snake2.svg" />
+      <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CoderGUY47/CoderGUY47/output/github-contribution-grid-snake.svg" />
   <br>
     <br/><br/>
 </div>
