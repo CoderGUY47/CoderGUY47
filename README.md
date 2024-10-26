@@ -55,10 +55,11 @@
   <hr/>
   <h2>📝 -Contributions- 📝</h2>
   <br>
-      <img align="center" src="https://github.com/user-attachments/assets/bdf99c91-110b-46d1-8ba9-bf2c45043d26" />
+     <img align-items="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CoderGUY47/CoderGUY47/output/github-contribution-grid-snake.svg">
   <br>
     <br/><br/>
 </div>
+
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
