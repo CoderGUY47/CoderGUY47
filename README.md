@@ -1,6 +1,12 @@
 <div align="center">
   <img height="30" width="30" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a9415ff0-40cb-44e8-b941-f9e3563c4238/d5afb2w-2e9d6840-6d33-4402-9c9b- 
   555c25781c9a.gif"/><br>
+<div align="center">
+<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"/>
+<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=CoderGUY47.CoderGUY47" />
 </div>
 
@@ -9,7 +15,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Gabarito&weight=700&size=48&center=true&vCenter=true&pause=1000&color=789BF7&width=700&height=70&lines=wanna+see+my+hello+world+?+🔍;" />
 </h1>
 
-<h1 align="center">Hi👋, I'm Hasan</h1>
+<h1 font-style="bold" align="center">Hi👋, I'm Hasan</h1>
 <h3 align="center">Passionate Frontend Web developer from Bangladesh</h3>
 <img align="center" width="1080" src="https://media.licdn.com/dms/image/D4E12AQEC-Ogww_k3Mw/article-cover_image-shrink_720_1280/0/1710841109274?e=2147483647&v=beta&t=2Z4Zot4ogR6QlSnJKm9AyxqDcWLo1iCgbKa7X-qdgAs" alt="Coding">
 <br>
