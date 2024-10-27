@@ -64,9 +64,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoderGUY47&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=true" height="250" alt="stats graph"  />
-<img src="https://streak-stats.demolab.com?user=CoderGUY47&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5" height="180" alt="streak graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderGUY47&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=discord_old_blurple&hide_border=true" height="180" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=CoderGUY47&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true" height="230" alt="stats graph"/>
+<img src="https://streak-stats.demolab.com?user=CoderGUY47&locale=en&mode=daily&theme=material-palenight&hide_border=true&border_radius=5" height="190" alt="streak graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderGUY47&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=material-palenight&hide_border=true" height="190" alt="languages graph"/>
 <img src="https://github-profile-trophy.vercel.app?username=CoderGUY47&no-bg=false&no-frame=false&margin-w=10" height="150" alt="trophy graph"  />
 </div>
 
