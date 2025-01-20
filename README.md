@@ -5,13 +5,13 @@
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=CoderGUY47.CoderGUY47" />
 </div>
 
-
 <h1 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Gabarito&weight=700&size=48&center=true&vCenter=true&pause=1000&color=789BF7&width=700&height=70&lines=wanna+see+my+hello+world+?+🔍;" />
 </h1>
-
-<h1 font-style="bold" align="center">Hi👋, I'm Hasan</h1>
-<h3 align="center">Passionate Frontend Web developer from Bangladesh</h3>
+<h1 align="center">
+Hi👋, I'm HASAN
+</h1>
+<p align="center" >A passionate React front-end developer who loves crafting the code in short, maintainable code and exploring the latest advancements in the JavaScript ecosystem.</p>
 <img align="center" width="1080" src="https://media.licdn.com/dms/image/D4E12AQEC-Ogww_k3Mw/article-cover_image-shrink_720_1280/0/1710841109274?e=2147483647&v=beta&t=2Z4Zot4ogR6QlSnJKm9AyxqDcWLo1iCgbKa7X-qdgAs" alt="Coding">
 
 <div align="center">
