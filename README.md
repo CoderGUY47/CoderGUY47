@@ -16,17 +16,17 @@ Hi👋, I'm HASAN
 
 <div align="center">
   
-🔭 I’m currently working on **LUXOROSH**
+🔭 I’m currently working on **ReactJs**
   
-🌱 I’m currently learning **|Tailwind|MongoBD|**
+🌱 I’m currently learning **|Tailwind|**
 
 👨‍💻 All of my projects are available at **|(github.com/CoderGUY47)|**
 
-💬 Ask me about **Html-CSS-Java-Js-C-ReactJs|**
+💬 Ask me about **Html-CSS-Js-ReactJs|**
 
 📫 How to reach me **-- @CoderGUY47 --**
 
-🧑 Personality **-- Friendly & Straight forward --**
+🧑 Personality **-- Friendly & Straight forward & Good Listener--**
 
 ⚡ Fun fact **!! Overflow : Hidden !!**
 </div>
