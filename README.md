@@ -5,9 +5,7 @@
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=CoderGUY47.CoderGUY47" />
 </div>
 
-<h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Gabarito&weight=700&size=48&center=true&vCenter=true&pause=1000&color=789BF7&width=700&height=70&lines=wanna+see+my+hello+world+?+🔍;" />
-</h1>
+
 <h1 align="center">
 Hi👋, I'm HASAN
 </h1>
