@@ -63,8 +63,7 @@ Hi👋, I'm HASAN
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoderGUY47&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false" height="165" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderGUY47&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=material-palenight&hide_border=false" height="165" alt="languages graph"  />
+  <img src="https://github-readme-st
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderGUY47&theme=react&radius=20&area=true&hide_title=false" height="190" alt="activity-graph graph"  />
 </div>
 
