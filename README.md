@@ -63,7 +63,6 @@ Hi👋, I'm HASAN
 <br>
 
 <div align="center">
-  <img src="https://github-readme-st
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderGUY47&theme=react&radius=20&area=true&hide_title=false" height="190" alt="activity-graph graph"  />
 </div>
 
