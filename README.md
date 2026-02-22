@@ -46,8 +46,8 @@ Hi👋, I'm HASAN
 <h2 align="center">⚒️⚙️ Languages-Frameworks-Tools ⚙️⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=illustrator,html,css,vscode,github" /> <br>   
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,figma,nodejs,javascript,tailwind" /> <br>   
-    <img src="https://skillicons.dev/icons?i=mongodb,c,java,nextjs,python,mysql" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,figma,tailwind" /> <br>   
+    <img src="https://skillicons.dev/icons?i=mongodb,c,nodejs,javascript,java,nextjs" />
 </div>
 <br>
 
@@ -66,8 +66,7 @@ Hi👋, I'm HASAN
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderGUY47&theme=react&radius=20&area=true&hide_title=false" height="190" alt="activity-graph graph"  />
 </div>
 
-
-<hr/>
+<br>
 <div align="center">
 <a href='https://github.com/CoderGUY47' target='_blank'><img height='64' style='border:0px;height:64px;' src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" class="w-36 h-8 sm:w-52 sm:h-12 mr-1 sm:mr-4" alt="buymeacoffee" /></a>
 
