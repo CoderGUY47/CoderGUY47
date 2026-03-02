@@ -11,7 +11,7 @@ Hi👋, I'm HASAN
   Front-End Dev on a relentless mission to become a Full-Stack Engineer.</p>
 
 <!-- ✅ FIXED IMAGE LINK: Using your GitHub-hosted version instead of LinkedIn -->
-<img align="center" width="1080" src="https://raw.githubusercontent.com/CoderGUY47/myPortfolio/main/public/coding_header.jpg" alt="Coding">
+<img align="center" width="1080" src="coding_header.jpg" alt="Coding">
 
 <div align="center">
   
