@@ -9,7 +9,8 @@
 <h1 align="center">
 Hi👋, I'm HASAN
 </h1>
-<p align="center" >A front-end developer who loves to take the risk for it's code, no matter how many time it takes, <br> I will get the final output with my smart working process. <br> For a Modern problem, i will be ready along with the AI agents. <br>My target is for a FULL-STACKER in a few year.</p>
+<p align="center" >\====Code risk-taker. AI enthusiast. Smart-work advocate.🚀====/ <br> 
+  Front-End Dev on a relentless mission to become a Full-Stack Engineer.</p>
 <img align="center" width="1080" src="https://media.licdn.com/dms/image/D4E12AQEC-Ogww_k3Mw/article-cover_image-shrink_720_1280/0/1710841109274?e=2147483647&v=beta&t=2Z4Zot4ogR6QlSnJKm9AyxqDcWLo1iCgbKa7X-qdgAs" alt="Coding">
 
 <div align="center">
