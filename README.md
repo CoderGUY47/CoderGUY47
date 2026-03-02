@@ -47,8 +47,8 @@ Hi👋, I'm HASAN
 <h2 align="center">⚒️⚙️ Languages-Frameworks-Tools ⚙️⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=illustrator,html,css,vscode,github" /> <br>   
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,figma,tailwind" /> <br>   
-    <img src="https://skillicons.dev/icons?i=mongodb,c,nodejs,javascript,java,nextjs" />
+    <img src="https://skillicons.dev/icons?i=react,figma,tailwind" /> <br>   
+    <img src="https://skillicons.dev/icons?i=mongodb,c,nodejs,javascript,nextjs" />
 </div>
 <br>
 
