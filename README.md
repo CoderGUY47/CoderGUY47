@@ -1,17 +1,17 @@
 <div align="center">
-  <img height="30" width="30" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a9415ff0-40cb-44e8-b941-f9e3563c4238/d5afb2w-2e9d6840-6d33-4402-9c9b- 
-  555c25781c9a.gif"/>
+  <img height="30" width="30" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a9415ff0-40cb-44e8-b941-f9e3563c4238/d5afb2w-2e9d6840-6d33-4402-9c9b-555c25781c9a.gif"/>
 <br>
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=CoderGUY47.CoderGUY47" />
 </div>
-
 
 <h1 align="center">
 Hi👋, I'm HASAN
 </h1>
 <p align="center" >\====Code risk-taker. AI enthusiast. Smart-work advocate.🚀====/ <br> 
   Front-End Dev on a relentless mission to become a Full-Stack Engineer.</p>
-<img align="center" width="1080" src="https://media.licdn.com/dms/image/D4E12AQEC-Ogww_k3Mw/article-cover_image-shrink_720_1280/0/1710841109274?e=2147483647&v=beta&t=2Z4Zot4ogR6QlSnJKm9AyxqDcWLo1iCgbKa7X-qdgAs" alt="Coding">
+
+<!-- ✅ FIXED IMAGE LINK: Using your GitHub-hosted version instead of LinkedIn -->
+<img align="center" width="1080" src="https://raw.githubusercontent.com/CoderGUY47/myPortfolio/main/public/coding_header.jpg" alt="Coding">
 
 <div align="center">
   
@@ -70,5 +70,5 @@ Hi👋, I'm HASAN
 <br>
 <div align="center">
 <a href='https://github.com/CoderGUY47' target='_blank'><img height='64' style='border:0px;height:64px;' src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" class="w-36 h-8 sm:w-52 sm:h-12 mr-1 sm:mr-4" alt="buymeacoffee" /></a>
-
+</div>
 <hr/>
