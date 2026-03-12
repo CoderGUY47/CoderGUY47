@@ -7,8 +7,10 @@
 <h1 align="center">
 Hi👋, I'm HASAN
 </h1>
-<p align="center" >\====Code risk-taker. AI enthusiast. Smart-work advocate.🚀====/ <br> 
-  Front-End Dev on a relentless mission to become a Full-Stack Engineer.</p>
+<p align="center" >
+  \====Code risk-taker. AI enthusiast.🚀====/ <br>
+  \===Do Smart-work, Believe in Long-term proccess===/<br>
+  \===Aim to be a Full-Stack with consistency.===/</p>
 
 <!-- ✅ FIXED IMAGE LINK: Using your GitHub-hosted version instead of LinkedIn -->
 <img align="center" width="1080" src="coding_header.jpg" alt="Coding">
