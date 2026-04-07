@@ -75,9 +75,8 @@ const HASAN = {
     <td width="33.33%" valign="top">
       <h3 align="center">🎯 C2C Book Hub</h3>
       <div align="center">
-          ////////////============== \\\\\\\\\\\<br>
         <img width="1920" height="911" alt="oxpecker" src="https://github.com/user-attachments/assets/c843a11f-c7b2-4e3e-93aa-1271c6d682bc" />
-          \\\\\\\\\\\==============////////////<br>
+        <br>
         <a href="https://oxpecker.pro.bd/" target="_blank">
           <img src="https://img.shields.io/badge/Live-8239c6?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
@@ -86,9 +85,9 @@ const HASAN = {
     <td width="33.33%" valign="top">
       <h3 align="center">🌟Floka Agency</h3>
       <div align="center">
-         ////////////============== \\\\\\\\\\\<br>
+            <br>
             <img width="1920" height="911" alt="floka" src="https://github.com/user-attachments/assets/ca57f2fb-b62e-4e74-9544-a20c075d96bf" />
-          \\\\\\\\\\\==============////////////<br>
+            <br>
         <a href="https://floka-digital-agency.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live-8239c6?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
@@ -97,9 +96,9 @@ const HASAN = {
     <td width="33.33%" valign="top">
       <h3 align="center">👾Github Issue Tracker</h3>
       <div align="center">
-          ////////////============== \\\\\\\\\\\<br>
+        <br>
         <img width="1920" height="911" alt="tracker" src="https://github.com/user-attachments/assets/4efb4c3e-e303-4c47-9370-2600c702d799" />
-          \\\\\\\\\\\==============////////////<br>
+        <br>
         <a href="https://ph-5-github-issue-tracker.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live-8239c6?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
