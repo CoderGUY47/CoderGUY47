@@ -1,9 +1,9 @@
 <div align="center">
-    <img height="65" width="20" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a9415ff0-40cb-44e8-b941-f9e3563c4238/d5afb2w-2e9d6840-6d33-4402-9c9b-555c25781c9a.gif"/>
-    <img height="45" width="30" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a9415ff0-40cb-44e8-b941-f9e3563c4238/d5afb2w-2e9d6840-6d33-4402-9c9b-555c25781c9a.gif"/>         
-    <img height="65" width="40" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a9415ff0-40cb-44e8-b941-f9e3563c4238/d5afb2w-2e9d6840-6d33-4402-9c9b-555c25781c9a.gif"/>
-    <img height="45" width="30" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a9415ff0-40cb-44e8-b941-f9e3563c4238/d5afb2w-2e9d6840-6d33-4402-9c9b-555c25781c9a.gif"/>
-    <img height="65" width="20" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a9415ff0-40cb-44e8-b941-f9e3563c4238/d5afb2w-2e9d6840-6d33-4402-9c9b-555c25781c9a.gif"/>
+    <img height="30" width="30" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a9415ff0-40cb-44e8-b941-f9e3563c4238/d5afb2w-2e9d6840-6d33-4402-9c9b-555c25781c9a.gif"/>
+    <img height="20" width="20" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a9415ff0-40cb-44e8-b941-f9e3563c4238/d5afb2w-2e9d6840-6d33-4402-9c9b-555c25781c9a.gif"/>         
+    <img height="40" width="40" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a9415ff0-40cb-44e8-b941-f9e3563c4238/d5afb2w-2e9d6840-6d33-4402-9c9b-555c25781c9a.gif"/>
+    <img height="20" width="20" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a9415ff0-40cb-44e8-b941-f9e3563c4238/d5afb2w-2e9d6840-6d33-4402-9c9b-555c25781c9a.gif"/>
+    <img height="30" width="30" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a9415ff0-40cb-44e8-b941-f9e3563c4238/d5afb2w-2e9d6840-6d33-4402-9c9b-555c25781c9a.gif"/>
 <br>
     
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=CoderGUY47.CoderGUY47" />
