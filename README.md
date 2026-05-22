@@ -75,7 +75,7 @@ const HASAN = {
     <td width="33.33%" valign="top">
       <h3 align="center">🎯 C2C Book Hub</h3>
       <div align="center">
-        <img width="1920" height="911" alt="oxpecker" src="https://github.com/user-attachments/assets/c843a11f-c7b2-4e3e-93aa-1271c6d682bc" />
+        <img width="1920" height="911" alt="oxpecker" src="book_hub_preview.png" />
         <br>
         <a href="https://oxpecker.pro.bd/" target="_blank">
           <img src="https://img.shields.io/badge/Live-8239c6?style=for-the-badge&logo=vercel&logoColor=white"/>
