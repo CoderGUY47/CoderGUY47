@@ -73,7 +73,7 @@ const HASAN = {
 <table>
   <tr>
     <td width="33.33%" valign="top">
-      <h3 align="center">🎯 C2C Book Hub</h3>
+      <h3 align="center">🎯 Oxpecker Book-Hub</h3>
       <div align="center">
         <img width="1920" height="911" alt="oxpecker" src="book_hub_preview.png" />
         <br>
@@ -101,6 +101,31 @@ const HASAN = {
           <img src="https://img.shields.io/badge/Live-8239c6?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.33%" valign="top">
+      <h3 align="center">🚗 Drive Fleet</h3>
+      <div align="center">
+        <img width="1920" height="911" alt="drive-fleet" src="drive_fleet_preview.png" />
+        <br>
+        <a href="https://drivefleet-eight.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-8239c6?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+      </div>
+    </td>
+    <td width="33.33%" valign="top">
+      <h3 align="center">🛍️ Monopoli Mart</h3>
+      <div align="center">
+        <img width="1920" height="911" alt="monopoli-mart" src="monopoli_mart_preview.png" />
+        <br>
+        <a href="https://monopoli-mart.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-8239c6?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+      </div>
+    </td>
+    <td width="33.33%" valign="top">
+      <!-- Empty space to align columns -->
     </td>
   </tr>
 </table>
