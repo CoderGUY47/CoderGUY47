@@ -261,11 +261,8 @@ const HASAN = {
 ---
 
 ## `// 🔥Streak`
-
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderGUY47&theme=tokyonight&hide_border=true&background=0d1117&ring=8239c6&fire=5b1084&currStreakLabel=8239c6" alt="GitHub Streak" />
-
+<img src="https://streak-stats.demolab.com/?user=CoderGUY47&theme=tokyonight&hide_border=true&background=0d1117&ring=8239c6&fire=5b1084&currStreakLabel=8239c6" alt="GitHub Streak" />
 </div>
 
 ---
