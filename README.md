@@ -38,29 +38,70 @@ const HASAN = {
 ```
 ## `// 📚 Currently Learning`
 
-![Next.js](https://img.shields.io/badge/Next.js-7F77DD?style=flat-square&logoColor=white&logo=nextdotjs)
-![Backend Development](https://img.shields.io/badge/Backend_Development-7F77DD?style=flat-square&logoColor=white&logo=server)
-![n8n](https://img.shields.io/badge/n8n-7F77DD?style=flat-square&logoColor=white&logo=n8n)
-![GSAP](https://img.shields.io/badge/GSAP-7F77DD?style=flat-square&logoColor=white&logo=greensock)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-7F77DD?style=flat-square&logoColor=white&logo=framer)
-![Claude Code](https://img.shields.io/badge/Claude_Code-7F77DD?style=flat-square&logoColor=white&logo=anthropic)
+<p align="left">
+  <img src="https://www.svgrepo.com/show/380472/blockchain-digital-future-system-security.svg" alt="Blockchain" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/373604/flutter.svg" alt="Flutter" width="45" height="45"/>
+  <img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_1016x1024.png" alt="Three.js" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/framer" alt="Motion" width="45" height="45"/>
+  <img src="https://miro.medium.com/1*wGdP-ym3kqQopOA9us8nXg.jpeg" alt="AI & Deep Learning" width="45" height="45"/>
+</p>
+
 
 ## `// 💡 Expertise`
+<!-- Row 1: Languages & Frontend -->
+<p align="left">
+  <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="css3" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/373705/js-official.svg" alt="css3" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" alt="typescript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="45" height="45"/>
+</p>
 
-![HTML](https://img.shields.io/badge/HTML-1D9E75?style=flat-square&logoColor=white&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1D9E75?style=flat-square&logoColor=white&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-1D9E75?style=flat-square&logoColor=white&logo=javascript)
-![React.js](https://img.shields.io/badge/React.js-1D9E75?style=flat-square&logoColor=white&logo=react)
-![REST APIs & JSON](https://img.shields.io/badge/REST_APIs_%26_JSON-1D9E75?style=flat-square&logoColor=white&logo=json)
-![AI Integration](https://img.shields.io/badge/AI_Integration-1D9E75?style=flat-square&logoColor=white&logo=openai)
+<!-- Row 2: Backend, Databases & Cloud Services -->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="supabase" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="firebase" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+      <img src="https://avatars.githubusercontent.com/u/163827765?s=200&v=4" alt="betterauth" width="45" height="45"/>
+</p>
+
+<!-- Row 3: Tools, IDEs & Custom Assets -->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://cursor.com/marketing-static/icon-512x512.png" alt="cursor" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/960px-Claude_AI_symbol.svg.png?_=20260428111349" alt="claude" width="45" height="45"/>
+      <img src="https://img.icons8.com/color/1200/java-web-token.jpg" alt="jwt" width="45" height="45"/>
+</p>
+
+### 🤝 Personal Strengths & Soft Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Friendly-1D9E75?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Talkative-1D9E75?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Honest-1D9E75?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Time_Management-1D9E75?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Consistency-1D9E75?style=for-the-badge&logoColor=white" />
+</p>
+
 ```javascript
   contact: {
+    linkedin: https://www.linkedin.com/in/dev-s-hasan/,
+    portfolio: https://smhasan.pro.bd/
     email: "s.m.hasan4599@gmail.com",
     github: "@CoderGUY47"
   },
   
   philosophy: {
-    mantra: "Do smart-work. Trust the long-term process.",
+    mantra: "Tit for Tat. Trust the long-term process.",
     cssWisdom: "overflow: hidden; /* life philosophy */"
   }
 };
