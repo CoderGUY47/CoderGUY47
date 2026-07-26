@@ -160,7 +160,7 @@ const HASAN = {
       <div align="center">
             <img width="1920" height="911" alt="floka" src="https://github.com/user-attachments/assets/ca57f2fb-b62e-4e74-9544-a20c075d96bf" />
             <br>
-        <a href="https://floka-digital-agency.netlify.app/" target="_blank">
+        <a href="https://floka-digital-agency-rho.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live-8239c6?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </div>
