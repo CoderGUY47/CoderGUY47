@@ -249,7 +249,7 @@ const HASAN = {
 </div>
 
 ---
-
+<!--
 ## `// 📊 Activity Graph`
 
 <div align="center">
@@ -257,7 +257,7 @@ const HASAN = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderGUY47&theme=tokyo-night&radius=16&area=true&hide_border=true&bg_color=0d1117&color=8239c6&line=5b1084&point=2c003d" width="100%" alt="Activity Graph" />
 
 </div>
-
+-->
 ---
 
 ## `// 🔥Streak`
